@@ -9,6 +9,6 @@ Different Pyhton projects that I did at school
 
 **DM3_LeStrat_Mailys** : The aim was to write different function to "play" with character string. The different function are for example: reverse, palindrome (which indicate if the word is a palindrome or not), anagram (which tells if two word are anagrams)... I made this code 3 years ago when I was debuting Python so there might be some inadvertences. 
 
-I also coded various function to sort data, functions using recursivity... 
+I also coded various function to sort data, functions using recursivity, writing/reading files... 
 
 *I am sorry that all the comments are in french*
